@@ -1,0 +1,22 @@
+{
+  "name": "welcom-msg-app",
+  "version": "1.0.0",
+  "description": "zangps project 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zangps",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zangps/myProject01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zangps/myProject01/issues"
+  },
+  "homepage": "https://github.com/zangps/myProject01#readme",
+  "dependencies": {
+    "jquery": "^1.12.4"
+  }
+}
